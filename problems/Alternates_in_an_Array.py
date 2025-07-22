@@ -1,6 +1,5 @@
 # Problem: Alternates in an Array.
-# link:  https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
-# Difficulty: Basic
+# link:  https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array
 
 arr = [1, 2, 3, 4, 5, 6]
 output = []
